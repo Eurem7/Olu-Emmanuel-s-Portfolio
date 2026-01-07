@@ -1,1 +1,2 @@
-# Olu-Emmanuel-Portfolio
+# Olu-Emmanuel's-Portfolio
+## Results-driven Junior Data Scientist and Data Analyst with a strong academic background in Statistics and hands-on experience across the data science lifecycle, including data cleaning, exploratory data analysis (EDA), statistical modelling, and foundational machine learning concepts. Skilled in Python-based data analysis, insight generation, and clear communication of results through visualizations and reports. Highly motivated, fast-learning, and ready to contribute immediately to data-focused teams in entry-level or graduate roles.
